@@ -324,4 +324,6 @@ export default {
 };
 </script>
 
-<style src='flickity/dist/flickity.css'></style>
+<style scoped>
+@import 'flickity/dist/flickity.css';
+</style>

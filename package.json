@@ -36,6 +36,6 @@
     "vue": "^2.1.4"
   },
   "dependencies": {
-    "flickity": "git+https://github.com/wildalaskan/flickity.git"
+    "flickity": "github:wildalaskan/flickity#master"
   }
 }
